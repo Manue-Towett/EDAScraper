@@ -3,7 +3,6 @@ import uuid
 import json
 import dataclasses
 from datetime import date
-from typing import Optional
 
 import requests
 import pandas as pd
